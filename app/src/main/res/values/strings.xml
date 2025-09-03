@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">jetpackcomposetutorial</string>
+    <string name="greeting">Welcome to the Jetpack Compose Tutorial</string>
 </resources>
